@@ -2,34 +2,38 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+I have already used IDE's like Eclipse, WebStorm etc. But definitely under Codio platform and within a VM, using IDE is new experience. I just need to adapt this Codio environment with my experience. 
+I like to select the following IDE features while developing my code
+1. indentation for control statements
+2. color used for reserved words, strings, functions
+3. completion of code or suggestion
 
-TODO: Replace with your introduction here.
+## Feature 1 – indentation for control statements
 
-## Feature 1 – TODO: Replace with name of your Feature1
+In Python, indentation is very important to associate blocks of code with control statements like if, elif, else etc.
+If indentation is mismatched, the flow of the program can change and end up with erroneous results.
+IDE takes care of this indentation for programmer correctly and make sure program flow is as expected. 
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
 
-TODO: Replace with your Feature 1 paragraph here.
+## Feature 2 – color used for reserved words, strings, functions
 
-## Feature 2 – TODO: Replace with name of your Feature2
+A program is nothing but of alpha numerical characters. Group of characters make words. Words can be reserved words specifically to be used and interpreted by Python. 
+Words can be interpreted as python built-in function names, programmer defined functions, strings, variables etc. IDE uses colors to differentiate reserved words, strings, variables etc. 
+So coloring words by IDE makes code readable and identify the context of words used in the program.
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
+## Feature 3 – completion of code or suggestion
+Usually when I use a Notepad to write a python program, I need to type all the code. If program is very big, it will take a lot of time.
+Not only that programmer need to open Python document and refer to it constantly for syntax use of python built-in functions.
+So IDE helps programmer to complete the program in quick time and correctly by suggesting code. IDE also assigns line numbers which helps to locate errors in program.
+For ex. 'import, input, if' can be used in program. As soon as I type 'i', IDE prompts list of functions, variables etc. which start with 'i'. Then programmer can look at the list and choose intended choice.
 
-TODO: Replace with your Feature 2 paragraph here.
 
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
 
 ## Conclusion
-
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
+I have used Visual Studio Code IDE for this assignment. As mentioned above, I have experienced all features and going to practice further in future assignments.
+It helped me indentation, follow code with coloring and code completion as I started coding.
+I am definitely loving to use IDE and master it. Once code suggestion is chosen and syntax is correct without errors, I can make some deliberate typos to see what kind of syntax errors 
+are thrown by python interpreter. Thus I can master and familiarize errors and quickly fix errors.
 
 ## References
 
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
